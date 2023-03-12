@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
 
 body {
-  background: url("https://i.imgur.com/qRP51Sh.jpg");
+  background: url("https://u.cubeupload.com/BrunoT/1276993.jpg");
   background-size: cover;
   background-position: center;
   font-family: Poppins, sans-serif;
@@ -16,9 +16,9 @@ body {
   z-index: 0;
   width: 80vw;
   max-width: 800px;
-  background: #ffffff;
+  background: #transparent;
   border-radius: 50px;
-  border: 10px solid #ffffff;
+  border: 10px solid #transparent;
   margin: 150px auto auto auto;
 }
 .foto {
@@ -87,13 +87,13 @@ h3 {
   min-height: 96px;
   min-width: 96px;
   border-radius: 2vw;
-  background-color: #ffffff;
+  background-color: #212121;
 }
 .ft:hover {
   transform: scale(1.1);
   cursor: pointer;
   border-radius: 1vw;
-  box-shadow: 0 0 1em #ffffff;
+  box-shadow: 0 0 1em #4c4091;
 }
 .projeto {
   align-items: top;
